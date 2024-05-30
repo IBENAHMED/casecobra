@@ -1,0 +1,11 @@
+@media(max-width:640px) {
+    .landing-content {
+        text-align: center;
+    }
+}
+
+@media(max-width:767px) {
+    .landing {
+        flex-direction: column;
+    }
+}
